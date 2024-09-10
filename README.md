@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 ## Live Demo
 
+https://gymtrainingapp.netlify.app
